@@ -1,3 +1,7 @@
+ """Python OS library can be used to list the files and directories within a specific directory. 
+ The excellent frameworks of this project are Docopt and Argparse"""
+
+
 import argparse #The program defines what arguments it requires, and argparse will figure out how to parse those out of sys.argv. The argparse module also automatically generates help and usage messages and issues errors when users give the program invalid arguments
 import os #Python OS module allows us to use the operating system dependent functionalities and to interact with the underlying operating system
 from walkdir import filtered_walk #The standard libary’s os.walk() iterator provides a convenient way to process the contents of a filesystem directory
