@@ -1,3 +1,7 @@
+"""Design a graphical user interface and familiarize yourself with a library like Tkinter.
+This library allows you to create buttons to perform different operations and display results on screen"""
+
+
 #CALCOLATRICE
 def addizione():
     print("ADDIZIONE")
