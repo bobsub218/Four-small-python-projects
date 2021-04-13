@@ -1,3 +1,6 @@
+#This app uses user credentials to open their account and then look for their friend’s ID and download their photos.
+
+
 from sys import argv 
 #from sys import argv 
 #Generally, the first argument to a command-line executable is the script name, and the rest are the expected arguments.
